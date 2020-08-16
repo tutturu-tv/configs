@@ -1,0 +1,17 @@
+# lines beginning with # are comments and ignored
+# .example.com means all match all subdomains of example.com
+.netflix.com
+.hulu.com
+.dailymotion.com
+.crunchyroll.com
+.funimation.com
+.hbo.com
+.hbogo.com
+.hbonow.com
+.hbomax.com
+.vrv.co
+.crave.ca
+.shudder.com
+.primevideo.com
+.disneyplus.com
+plus.espn.com
