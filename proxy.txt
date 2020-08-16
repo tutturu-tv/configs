@@ -1,5 +1,6 @@
 # lines beginning with # are comments and ignored
-# .example.com means match all subdomains of example.com
+# .example.com => match example.com or *.example.com
+# foo.bar.com => match foo.bar.com
 .netflix.com
 .hulu.com
 .dailymotion.com
