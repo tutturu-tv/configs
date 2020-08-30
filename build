@@ -1,0 +1,5 @@
+#!/bin/sh
+sed -i /^#/d *.txt
+sed -i 's|.*/||g' ex.txt
+mkdir -p public
+mv *.txt public
