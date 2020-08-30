@@ -3,6 +3,8 @@
 Open-sourced config files from Tutturu
 
 - proxy.txt -> list of websites known to have issues on Tutturu to suggest using the proxy
+- flash.txt -> list of websites where flash is automatically enabled on Tutturu
+- ex.txt -> list of extensions whitelisted on Tutturu
 
 ## Contributing
 

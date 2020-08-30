@@ -1,0 +1,21 @@
+# lines beginning with # are comments and are ignored
+# s:// means https, :// means http
+# do not add entries with www, it is automatically added
+# please maintain alphabetical order
+://maxgames.com
+://neopets.com
+://totaljerkface.com
+://whiteenamel.com
+s://6games.eu
+s://apps.facebook.com
+s://armorgames.com
+s://boombang.nl
+s://coolmathgames.com
+s://cprewritten.net
+s://emulator.online
+s://kongregate.com
+s://newgrounds.com
+s://play.cprewritten.net
+s://spielen.com
+s://transformice.com
+s://twoplayergames.org

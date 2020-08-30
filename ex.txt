@@ -1,0 +1,36 @@
+# lines beginning with # are comments and are ignored
+# include the section of chrome webstore url after `detail/` and before the query parameters
+# please maintain alphabetical order
+betterttv/ajopnjidmegmdimjlfnijceegpefgped
+browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh
+dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+dotvpn-—-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk
+expressvpn-vpn-proxy-to-u/fgddmllnllkalaagkghckoinaemmogpe
+foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp
+google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+hola-free-vpn-proxy-unblo/gkojfkhlekighikafcpjkiklfbnlmeio
+hotspot-shield-vpn-free-p/nlbejmccbhkncgokjcmghpfloaajcffj
+ivacy-best-vpn-for-privac/lblebdecfhdegbeoejplcpmhibbkbkin
+location-guard/cfohepagpmnodfdmjliccbbigdkfcgia
+nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo
+nano-defender/ggolfgbegefeeoocgjbmkembbncoadlb
+nordvpn-1-vpn-proxy-exten/fjoaledfpmneenckfbpdfhkmimnjocfa
+nordvpn-1-vpn-proxy-exten/fjoaledfpmneenckfbpdfhkmimnjocfa
+pop-up-blocker-for-chrome/bkkbcggnhapdmkeljlodobbkopceiche
+private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+purevpn-1-proxy-extension/bfidboloedlamgdmenmlbipfnccokknp
+setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
+stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
+substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg
+surfshark-vpn-extension-f/ailoabdmgclmfmhdagmlohpjlbpffblp
+torguard-vpn-extension/mnfchpadaikneonajggpooeppnmdolhc
+touch-vpn/bihmplhobchoageeokmgbdihknkjbknd
+ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco
+ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon
+uvpn-free-and-unlimited-/gpieacagdjdfbifodokiccinpbacemjf
+video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
+volume-amplifier/hgjaoeaobmnnefhjdphmodcnljkboglb
+vpn-free-betternet-unlimi/gjknjjomckknofjidppipffbpoekiipm
+wachee-vpn-unblocker-for/bhnhkdgoefpmekcgnccpnhjfdgicfebm
+windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb
