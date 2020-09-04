@@ -9,7 +9,6 @@
 s://6games.eu
 s://apps.facebook.com
 s://armorgames.com
-s://boombang.nl
 s://coolmathgames.com
 s://cprewritten.net
 s://emulator.online
