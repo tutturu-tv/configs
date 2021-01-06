@@ -33,6 +33,7 @@ surfshark-vpn-extension-f/ailoabdmgclmfmhdagmlohpjlbpffblp
 tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 torguard-vpn-extension/mnfchpadaikneonajggpooeppnmdolhc
 touch-vpn/bihmplhobchoageeokmgbdihknkjbknd
+tunnelbear-vpn/omdakjcmkglenbhjadbccaookpfjihpa
 ublock-origin-extra/pgdnlhfefecpicbbihgmbmffkjpaplco
 ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 unblock-bilibili-the-only/jpegpdbkhceiipenjmaglmphmfjjpbmp
