@@ -1,6 +1,8 @@
 # lines beginning with # are comments and ignored
 # .example.com => match example.com or *.example.com
 # foo.bar.com => match foo.bar.com
+.amazon.com
+.amazon.co.uk
 .netflix.com
 .hulu.com
 .dailymotion.com
