@@ -17,4 +17,5 @@
 .shudder.com
 .primevideo.com
 .disneyplus.com
+.paramountplus.com
 plus.espn.com
