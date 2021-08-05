@@ -1,6 +1,7 @@
 # lines beginning with # are comments and are ignored
 # include the section of chrome webstore url after `detail/` and before the query parameters
 # please maintain alphabetical order
+4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh
 custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale
