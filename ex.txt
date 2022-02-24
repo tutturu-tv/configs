@@ -2,6 +2,7 @@
 # include the section of chrome webstore url after `detail/` and before the query parameters
 # please maintain alphabetical order
 4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
+adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh
 custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale
