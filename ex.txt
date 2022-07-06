@@ -3,6 +3,7 @@
 # please maintain alphabetical order
 4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk
+audio-equalizer/ahikmoihohidpfjdmmdodfhnmjipmpci
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 browsec-vpn-free-and-unli/omghfjlpggmjjaagoclmmobgdodcjboh
 custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale
@@ -66,7 +67,8 @@ urban-free-vpn-proxy-unbl/eppiocemhmnlbhjplcgkofciiegomcon
 user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 uvpn-free-and-unlimited-/gpieacagdjdfbifodokiccinpbacemjf
-video-ad-block-for-twitch/kgeglempfkhalebjlogemlmeakondflc
+video-ad-block-for-twitch/kgeglempfkhalebjlogemlmeakondfl
+video-color-enhancer/ahfioiamcnpgmfecmmnecajookbmgcdpc
 video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
 virtual-keyboard/pflmllfnnabikmfkkaddkoolinlfninn
 virtual-pets-for-google-c/ifpbdeecnndfdiblggcdccjeddnocmfd
