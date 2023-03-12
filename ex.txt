@@ -4,7 +4,10 @@
 4chan-x/ohnjgmpcibpbafdlkimncjhflgedgpam
 7tv/ammjkodgmmoknidbanneddgankgfejfh
 adblock-for-youtube/cmedhionkhpnakcndndgjdbohmhepckk
+adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh
 aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd
+annotations-restored-for/daabpdmgkghdbfljmeahnplkcldbeefg
+anti-adblock-detector/kjhdffcfinhkdfbbhjlfoadcdfgihmlp
 audio-equalizer/ahikmoihohidpfjdmmdodfhnmjipmpci
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 bigtube-youtube-expander/gdkadbhiemijfpoochcieonikoaciapi
@@ -24,6 +27,8 @@ foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp
 frankerfacez/fadndhdgpmmaapbmfcknlfgcflmmmieb
 google-play/komhbcfkdcgmcdoenjcjheifdiabikfi
 google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb
+goplay-extension/edhdonadgbpnhhkdobemjnjdpmfdjnmf
+grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
 gyazo/ffdaeeijbbijklfcpahbghahojgfgebo
 hide-input/nmocnpifbamaacbkgiekcdncefbaidji
 hide-youtube-comments/kehdmnjmaakacofbgmjgjapbbibhafoh
@@ -40,8 +45,10 @@ mal-sync/kekjfbackdeiabghhcdklcdoekaanoel
 music-meal-audio-player-p/dnfclojpjpcpkepcobligoibhnjfpllm
 netflix-extended/gjcgfkhgpaccjpjokgpekpgpphgaanej
 never-ending-netflix/hdadmgabliibighlbejhlglfjgplfmhb
+nflxmultisubs-2021-netfli/jepfhfjlkgobooomdgpcjikalfpcldmm
 nordvpn-—-1-vpn-chrome-ex/fjoaledfpmneenckfbpdfhkmimnjocfa
 nowstreaming-twitch/cfdokgjlnihoblidldhdomakblbaegim
+page-edit/clfiicjcpkcccglblehapeiipibnaenl
 pitch-shifter-html5-video/mpmkclglcbkjchakihfpblainfncennj
 plex-speed/kegkeieegiecchgneffbcbjknmjminjj
 podstation-podcast-player/bpcagekijmfcocgjlnnhpdogbplajjfn
@@ -53,6 +60,7 @@ reader-mode/llimhhconnjiflfimocjggfjdlmlhblm
 remove-youtube-recommende/khncfooichmfjbepaaaebmommgaepoid
 return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi
 roboform-password-manager/pnlccmojcmeohlpggmfnbbiapkmbliob
+ruffle/donbcfbmhbcapadipfkeojnmajbakjdc
 set-discord-activity/dlmmhgaeahcfkojednnfghfpinbinicj
 setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp
 shareaccount/glifngepkcmfolnojchcfiinmjgeablm
@@ -60,14 +68,15 @@ shikicinema/hmbjohbggdnlpmokjbholpgegcdbehjp
 shimeji-browser-extension/gohjpllcolmccldfdggmamodembldgpc
 shut-up-comment-blocker/oklfoejikkmejobodofaimigojomlfim
 sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+spotiads/mghhlojofjipigjobacbjdngmjafdeim
 stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 strongvpn-the-fastest-pro/ahcoedgggbhcdgmhhhhliafnbcifmdln
 substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg
 subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal
 supersmashbrowser/bdlmjfkblpjnkienagkgljcodcgjjjml
 surfshark-vpn-extension-f/ailoabdmgclmfmhdagmlohpjlbpffblp
-tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg
+tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 torguard-vpn-extension/mnfchpadaikneonajggpooeppnmdolhc
 touch-vpn/bihmplhobchoageeokmgbdihknkjbknd
 trustzone-vpn-proxy/nfepbdhdbmcjpbjgpgcimfjlnjglpobn
@@ -82,8 +91,7 @@ user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 uvpn-free-and-unlimited-/gpieacagdjdfbifodokiccinpbacemjf
 vidangel-for-chrome/mbpfipleganodbgndfadpokojibnfhjb
-video-ad-block-for-twitch/kgeglempfkhalebjlogemlmeakondfl
-video-color-enhancer/ahfioiamcnpgmfecmmnecajookbmgcdpc
+video-color-enhancer/ahfioiamcnpgmfecmmnecajookbmgcdp
 video-looper-for-youtubed/kpcelfaheoikimakaonbfipkijodnmmd
 video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
 virtual-keyboard/pflmllfnnabikmfkkaddkoolinlfninn
@@ -93,7 +101,9 @@ volume-booster/ejkiikneibegknkgimmihdpcbcedgmpo
 volume-master/jghecgabfgfdldnmbfkhmffcabddioke
 vpn-free-betternet-unlimi/gjknjjomckknofjidppipffbpoekiipm
 vpn-unlimited-free-unbloc/mpcaainmfjjigeicjnlkdfajbioopjko
+w-zoom/jneiefgdpanjnbjgdiaokmgjnbhclaom
 wachee-vpn-unblocker-for/bhnhkdgoefpmekcgnccpnhjfdgicfebm
 wevpn-fast-secure-vpn-pro/ehbhfpfdkmhcpaehaooegfdflljcnfec
 windscribe-free-proxy-and/hnmpcagpplmpfojmgmnngilcnanddlhb
+youtube-nonstop/nlkaejimjacpillmajjnopmpbkbnocid
 zenmate-free-vpn–best-vpn/fdcgdnkidjaadafnichfpabhfomcebme
