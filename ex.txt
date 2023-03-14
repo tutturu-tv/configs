@@ -75,8 +75,8 @@ substital-add-subtitles-t/kkkbiiikppgjdiebcabomlbidfodipjg
 subtitles-for-youtube/oanhbddbfkjaphdibnebkklpplclomal
 supersmashbrowser/bdlmjfkblpjnkienagkgljcodcgjjjml
 surfshark-vpn-extension-f/ailoabdmgclmfmhdagmlohpjlbpffblp
-tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 tabby-cat/mefhakmgclhhfbdadeojlkbllmecialg
+tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 torguard-vpn-extension/mnfchpadaikneonajggpooeppnmdolhc
 touch-vpn/bihmplhobchoageeokmgbdihknkjbknd
 trustzone-vpn-proxy/nfepbdhdbmcjpbjgpgcimfjlnjglpobn
@@ -91,8 +91,7 @@ user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg
 user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg
 uvpn-free-and-unlimited-/gpieacagdjdfbifodokiccinpbacemjf
 vidangel-for-chrome/mbpfipleganodbgndfadpokojibnfhjb
-video-ad-block-for-twitch/kgeglempfkhalebjlogemlmeakondfl
-video-color-enhancer/ahfioiamcnpgmfecmmnecajookbmgcdpc
+video-color-enhancer/ahfioiamcnpgmfecmmnecajookbmgcdp
 video-looper-for-youtubed/kpcelfaheoikimakaonbfipkijodnmmd
 video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk
 virtual-keyboard/pflmllfnnabikmfkkaddkoolinlfninn
