@@ -10,6 +10,7 @@ annotations-restored-for/daabpdmgkghdbfljmeahnplkcldbeefg
 anti-adblock-detector/kjhdffcfinhkdfbbhjlfoadcdfgihmlp
 aspect-ratio-219/mgpbkhkpghgmihmcfbndejmkaibbnljo
 audio-equalizer/ahikmoihohidpfjdmmdodfhnmjipmpci
+autotube-youtube-nonstop/egobelhdffdoidcnhpgkngoghpiebial
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 bigtube-youtube-expander/gdkadbhiemijfpoochcieonikoaciapi
 bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb
