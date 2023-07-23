@@ -8,7 +8,9 @@ adlock-adblocker-privacy/aemffjkmgcepimloclpkecifcnipnodh
 aniskip/npfcdmjgaocepmpdnmliimijgfjbgcdd
 annotations-restored-for/daabpdmgkghdbfljmeahnplkcldbeefg
 anti-adblock-detector/kjhdffcfinhkdfbbhjlfoadcdfgihmlp
+aspect-ratio-219/mgpbkhkpghgmihmcfbndejmkaibbnljo
 audio-equalizer/ahikmoihohidpfjdmmdodfhnmjipmpci
+autotube-youtube-nonstop/egobelhdffdoidcnhpgkngoghpiebial
 betterttv/ajopnjidmegmdimjlfnijceegpefgped
 bigtube-youtube-expander/gdkadbhiemijfpoochcieonikoaciapi
 bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb
@@ -21,7 +23,9 @@ dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
 dashlane-password-manager/fdjamakpfbbddfjaooikfcpapjohcfmg
 dotvpn-—-a-better-way-to/kpiecbcckbofpmkkkdibbllpinceiihk
 dualless/bgdpkilkheacbboffppjgceiplijhfpd
+dualsub/gnlibmlfpencglodjpgnalbdebfhpmfp
 duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg
+ears-bass-boost-eq-any-au/nfdfiepdkbnoanddpianalelglmfooik
 enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle
 expressvpn-vpn-proxy-to-u/fgddmllnllkalaagkghckoinaemmogpe
 foxyproxy-standard/gcknhkkoolaabfmlnjonogaaifnjlfnp
@@ -33,6 +37,7 @@ grammarly-grammar-checker/kbfnbcaeplbcioakkpcpgfkobkghlhen
 gyazo/ffdaeeijbbijklfcpahbghahojgfgebo
 hide-input/nmocnpifbamaacbkgiekcdncefbaidji
 hide-youtube-comments/kehdmnjmaakacofbgmjgjapbbibhafoh
+hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka
 hola-free-vpn-proxy-unblo/gkojfkhlekighikafcpjkiklfbnlmeio
 hotspot-shield-vpn-free-p/nlbejmccbhkncgokjcmghpfloaajcffj
 hulu-ad-skipper-ad-blocke/pgpdfnkeeppfohmophlpcfmciioeenig
